@@ -67,6 +67,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  color: #fff;
 }
 
 .overlay {
@@ -91,7 +92,6 @@
   line-height: 115%;
   letter-spacing: 0.3em;
   text-transform: uppercase;
-  color: #fff;
 }
 
 .letter-spacing-extended {
@@ -137,8 +137,8 @@
   padding: 12px 31px;
   margin-right: 52px;
   border: 1px solid #fff;
-  font-family: "Raleway", sans-serif;
   color: inherit;
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 22px;
   text-transform: uppercase;
@@ -146,7 +146,6 @@
   background-color: transparent;
   cursor: pointer;
   z-index: 1;
-  color: #fff;
 }
 /* конец секции cover */
 
@@ -170,6 +169,7 @@
   width: 100%;
   gap: 25px;
   list-style: none;
+  margin-bottom: 30px; /* отступ для ссылки lots__look-more-link */
 }
 
 .lots__card-list-item {
@@ -235,7 +235,6 @@
 }
 
 .lots__look-more-link {
-  padding-top: 5px;
   padding-left: 40px;
   font-weight: 400;
   font-size: 20px;
