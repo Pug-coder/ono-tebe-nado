@@ -45,7 +45,6 @@
 }
 
 .address {
-  /* padding-right: 36px; */
   max-width: 240px;
   font-weight: 400;
   font-size: 18px;
@@ -318,6 +317,10 @@
   font-weight: 400;
   font-size: 18px;
   color: #000;
+}
+
+.footer__menu-link_active {
+  text-decoration: none;
 }
 
 .footer__social-list {
