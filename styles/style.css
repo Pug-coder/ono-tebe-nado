@@ -62,7 +62,7 @@
   position: relative;
   z-index: -1;
   background: url("../images/cover.jpg") no-repeat center / cover;
-  height: 757px;
+  padding: 0px 0px 50px;
   color: #fff;
 }
 
